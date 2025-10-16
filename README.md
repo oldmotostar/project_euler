@@ -5,12 +5,12 @@
 
 ---
 # Description:
-This repository contains my solutions to various mathematical and programming problems from the [Project Euler](https://projecteuler.net/) portal.
+This repository contains my solutions to various mathematical and programming problems from the [Project Euler](https://projecteuler.net/) portal.  
 Each solution is written in Python to practice algorithms, improve programming skills, and solve challenging problems.
 
 ---
 
 # Usage:
 
-Navigate to the folder of the problem number.
+Navigate to the folder of the problem number.  
 Run the Python script to see the solution.

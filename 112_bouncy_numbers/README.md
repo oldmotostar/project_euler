@@ -7,7 +7,7 @@ This script finds the least number for which the proportion of **bouncy numbers*
 
 ##  Input Format
 
-No input file is needed. The script calculates the result programmatically.
+No input file is needed.
 
 ---
 

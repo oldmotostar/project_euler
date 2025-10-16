@@ -12,5 +12,5 @@ Each solution is written in Python to practice algorithms, improve programming s
 
 # Usage:
 
-Navigate to the folder of the problem number
-Run the Python script to see the solution
+Navigate to the folder of the problem number.
+Run the Python script to see the solution.
